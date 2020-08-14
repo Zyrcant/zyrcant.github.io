@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="shortcut icon" href="favicon.ico" />
+    <link rel="stylesheet" type="text/css" href="index.css">
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="description" content="Tiffany Do's Personal Webpage">
+    <meta name="keywords" content="Tiffany Do, personal webpage, UCF">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    <title>Tiffany Do</title>
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item active">
+            <a class="nav-link" href="#About">Home <span class="sr-only">(current)</span></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#About">About</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#Projects">Projects</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#Contact">Contact</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+
+    <div class="row">
+      <div class="col-sm-2 col text-center bg-light">
+        <a href="https://drive.google.com/file/d/14SDEiOZwy_WCKYzTOT-hl5t-iw1p8f9n/view?usp=sharing" target="_blank">Curriculum Vitae (CV)</a></br>
+        <a href="https://github.com/Zyrcant" target="_blank">GitHub</a><br>
+        <a href="https://www.linkedin.com/in/zyrcant/" target="_blank">LinkedIn</a><br>
+        <a href="https://www.artstation.com/zyrcant" target="_blank">ArtStation</a><br>
+      </div>
+      <div class="col-sm-8">
+
+          <div class="row">
+            <div class="col" id="About"> 
+              <h1>About</h1>
+              <div class="box"><img src="img/profilepic.png" alt="profile picture" style="width:15em;height:15em;"></div>
+              <p>
+                I am currently a PhD student in Computer Science at the University of Central Florida (UCF). I have an avid interest in research, especially in virtual reality and other HCI-related subjects. I conduct research in the eXtended Reality & Training Lab (XRT) under the supervision of Professor Ryan McMahan. I received my Bachelor's and Master's in Computer Science at The University of Texas at Dallas. I previously worked on projects in the Future Immersive Virtual Environments (FIVE) lab at UTD and have since continued my work in Florida.
+              </p>
+              <p>
+                I have an unhealthy obsession with my dog named Chopstick (pictured on the left) and have a strong belief that Latex is the best word processor and nothing will change my mind.
+              </p>
+            </div>
+            <div class="w-100"></div>
+            <div class="col" id="Projects">
+              <h1>Personal Projects</h1> 
+              <div class="w-100"></div>
+              <div class="col">
+              <h3>VR Spline Rider</h3>
+              <div class="box"><img src="img/splinerider.png" alt="recycling project" style="height:15em"></div>
+              <p>
+                <strong>Tech stack:</strong> Unity 2.0f(C#), 5UDE
+              </p>
+              <p>
+                VR Spline Rider is an application that allows a user to build and ride splines in VR. The user creates control points using their right hand, which are used to automatically generate Catmull-Rom splines. The control points can be modified or deleted by the user in real time. The user can also ride their spline (scaled to the real world) by clicking the "MENU" button. We dynamically calculated the quaternions of control points and used them to rotate the user through the spline accordingly. We also implemented our own physics system that emulated real life physics.
+              </p>
+              <p>
+                See more: <a href="https://www.youtube.com/watch?v=d4LTsxf8LGA" target="_blank">Demo </a>
+              </p>
+              </div>
+
+
+              <div class="w-100"></div>
+              <div class="col">
+              <h3>Color Compressor</h3>
+              <div class="box"><img src="img/colorcompressor.jpg" alt="collaborative filtering project" style="height:15em"></div>
+              <p>
+                <strong>Tech stack:</strong> Java, JPanel
+              </p>
+              <p>
+                Color Compressor is an open source project that uses an unsupervised learning algorithm known as K-means in order to compress images into a user given number of colors. Users can also see the color palette chosen by the algorithm and even change these colors to their liking. This simple GUI also gives a user the option to load, save, and undo/redo (CTRL+Z/CTRL+Y) palette changes. 
+              </p>
+              <p>
+                See more: <a href="https://github.com/Zyrcant/Color-Compressor-GUI/releases/tag/v1.2" target="_blank">Release</a> | <a href="https://github.com/Zyrcant/Color-Compressor-GUI" target="_blank">GitHub</a>
+              </p>
+              </div>
+              </div>
+            </div>
+            <div class="w-100"></div>
+            <div class="col" id="Contact">
+              <h1>Contact</h1>
+              <p>
+                <strong>Email:</strong> tiffanydo@knights.ucf.edu
+                <br>
+                <strong>Personal Email:</strong> zyrcant@gmail.com
+              </p>
+            </div>
+          </div>
+
+      </div>
+      <div class="col-sm-2 col text-center bg-light">
+      </div>
+    </div>
+    <footer class="page-footer font-small text-white bg-dark">
+        <div class="footer-text text-center py-3">
+        </div>
+    </footer>
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  </body>
+</html>
