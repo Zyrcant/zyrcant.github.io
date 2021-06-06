@@ -44,3 +44,10 @@
     font-weight: 300;
     line-height: 1.2;
 }
+.navbar-nav .nav-item .nav-link {
+    color: white;
+}
+.navbar-nav .nav-item.active .nav-link,
+.navbar-nav .nav-item:hover .nav-link {
+    color: #98ff98;
+}
