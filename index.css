@@ -11,6 +11,10 @@
   padding-bottom:15px;
 }
 
+.soft-borders 
+{
+  border-radius: 1rem;
+}
 .padded
 {
   padding-top:15px;
