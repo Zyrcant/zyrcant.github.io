@@ -48,3 +48,19 @@
     font-weight: 300;
     line-height: 1.2;
 }
+
+
+a:hover {
+  background-color: lightgray;
+}
+
+
+.title {
+  color: black;
+  text-decoration: underline;
+}
+
+.col-text{
+  color: dimgray;
+  font-style: italic;
+}
