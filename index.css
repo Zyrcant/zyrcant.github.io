@@ -50,14 +50,18 @@
 }
 
 
+a {
+  color: CadetBlue;
+}
+
 a:hover {
   background-color: lightgray;
+  color: CadetBlue;
 }
 
 
 .title {
-  color: black;
-  text-decoration: underline;
+  color: CadetBlue;
 }
 
 .col-text{
