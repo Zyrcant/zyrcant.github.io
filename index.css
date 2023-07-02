@@ -5,6 +5,24 @@
   border-radius: 5px;
 }
 
+.carousel-inner img {
+  margin: auto;
+}
+
+.box2
+{
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 45px;
+  margin-top: 15px;
+  border-radius: 10px;
+}
+
+.carousel {
+   width:30em;
+   height:18em;
+ }
+
 .col 
 {
   padding-top:15px;
@@ -15,6 +33,13 @@
 {
   border-radius: 1rem;
 }
+
+.carousel-caption {
+    position: relative;
+    left: auto;
+    right: auto;
+}
+
 .padded
 {
   padding-top:15px;
@@ -61,7 +86,7 @@ a:hover {
 
 
 .title {
-  color: CadetBlue;
+  color: darkslategrey;
 }
 
 .col-text{
