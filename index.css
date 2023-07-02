@@ -76,12 +76,12 @@
 
 
 a {
-  color: CadetBlue;
+  color: darkslategrey;
 }
 
 a:hover {
   background-color: lightgray;
-  color: CadetBlue;
+  color: darkslategrey;
 }
 
 
