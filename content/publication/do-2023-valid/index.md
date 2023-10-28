@@ -1,7 +1,7 @@
 ---
 title: 'VALID: A perceptually validated Virtual Avatar Library for Inclusion and Diversity'
 authors:
-- Tiffany D. Do
+- admin
 - Steve Zelenty
 - Mar Gonzalez-Franco
 - Ryan P. McMahan

@@ -110,5 +110,38 @@ sections:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
+  - block: accomplishments
+    content:
+      title: Teaching
+      subtitle: 'A list of courses I have taught for'
+      text: ''
+      # Date format: https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Accomplishments.
+      #   Add/remove as many `items` blocks below as you like.
+      #   `title`, `organization`, and `date_start` are the required parameters.
+      #   Leave other parameters empty if not required.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Foundations of HCI (CAP 3104)
+          date_end: '2023-08-05'
+          date_start: '2023-12-01'
+          organization: Graduate Research Assistant
+        - title: Camp Connect Advanced Research Graduate Mentor
+          date_start: '2021-08-01'
+          organization: Graduate Advisor
+        - title: Operating Systems Concepts (CGS 3763)
+          date_end: '2021-05-05'
+          date_start: '2021-01-01'
+          organization: Graduate Teaching Assistant
+        - title: Computer Science 1 in C (COP 3502C)
+          date_end: '2020-12-05'
+          date_start: '2020-01-01'
+          description: 'Instructed C programming lab classes for 2-3 sections a week (20-40 students per section). Responsible as TA for ~240 students a semester. <br>Nominated for the CECS Award for Excellence by a Graduate Teaching Assistant by Dr. Tanvir Ahmed. '
+          organization: Graduate Teaching Assistant & Lab Instructor
+    design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
+
 
 ---
