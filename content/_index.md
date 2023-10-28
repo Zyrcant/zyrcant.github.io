@@ -62,6 +62,7 @@ sections:
           location: Orlando, FL
           date_start: '2021-01-01'
           date_end: ''
+          description: 'Advised by Ryan P. McMahan'
         - title: PhD Research Intern
           company: Microsoft Research
           company_url: ''
@@ -69,6 +70,7 @@ sections:
           location: Redmond, WA
           date_start: '2023-05-01'
           date_end: '2023-08-01'
+          description: 'Advised by Ed Cutrell, Martez Mott, and John Tang'
     design:
       columns: '2'
   - block: collection
