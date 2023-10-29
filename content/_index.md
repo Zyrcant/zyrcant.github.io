@@ -119,7 +119,7 @@ sections:
               filename: GWC4.jpg
               filters:
                 brightness: 0.7
-            position: center
+            position: left
           link:
             text: My slides
             url: uploads/GitWorkshop.
@@ -131,7 +131,7 @@ sections:
               filename: esports.jpg
               filters:
                 brightness: 0.7
-            position: center
+            position: left
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: '600px'
