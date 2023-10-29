@@ -67,7 +67,7 @@ social:
 highlight_name: true
 ---
 ☕️
-I am a Ph.D. candidate in Computer Science at the University of Central Florida, focusing on Human-Centered AI, extended reality (VR/AR), and virtual avatars. My research focuses on how individuals of diverse abilities and identities engage with AI and computing. I am dedicated to developing AI systems that value and prioritize the uniqueness of individuals, their cultures, and personalities. I believe that computing holds great potential when we embrace people's unique qualities. Through my research, I aim to improve lives while embracing the rich diversity of human-computing interactions.
+I am a Ph.D. candidate in Computer Science at the University of Central Florida, focusing on Human-Centered AI, extended reality (VR/AR), and virtual avatars. My research focuses on how individuals of diverse abilities and identities engage with AI and computing. I am dedicated to developing AI systems that value and prioritize the uniqueness of individuals, their cultures, and personalities. I believe that computing holds great potential when we embrace people's unique qualities. Through my research, I aim to improve lives while embracing the rich diversity of human-computing.
 
 As the proud daughter of a Vietnamese refugee family, I go by both my American name, Tiffany, and my native name, Diễm. I am very active in diversity in computing organizations, which you can find more about in service. 
 

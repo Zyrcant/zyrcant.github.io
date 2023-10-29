@@ -73,6 +73,10 @@ sections:
           description: 'Advised by Ed Cutrell, Martez Mott, and John Tang'
     design:
       columns: '2'
+      background:
+        gradient_end: '#9FA5D5'
+        gradient_start: '#E8F5C8'
+        text_color_light: false
   - block: collection
     id: featured
     content:
