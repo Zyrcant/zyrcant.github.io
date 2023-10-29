@@ -115,7 +115,7 @@ sections:
   - block: accomplishments
     content:
       title: Teaching
-      subtitle: 'A list of courses I have taught for'
+      subtitle: '📚 A list of courses I have taught for'
       text: ''
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -128,7 +128,7 @@ sections:
         - title: Foundations of HCI (CAP 3104)
           date_end: '2023-08-05'
           date_start: '2023-12-01'
-          organization: Graduate Research Assistant
+          organization: Graduate Teaching Assistant
         - title: Camp Connect Advanced Research Graduate Mentor
           date_start: '2021-08-01'
           organization: Graduate Advisor
