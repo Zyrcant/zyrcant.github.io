@@ -7,6 +7,7 @@ authors:
 - Nicholas Ruozzi
 - Ryan P. McMahan
 date: '2023-10-01'
+doi: 10.1109/ISMAR59233.2023.00054
 publishDate: '2023-10-28T20:40:59.343820Z'
 publication_types:
 - paper-conference
