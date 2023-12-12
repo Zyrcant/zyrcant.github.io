@@ -10,7 +10,7 @@ date: '2023-10-01'
 publishDate: '2023-10-28T20:40:59.343820Z'
 publication_types:
 - paper-conference
-publication: '*To Appear in 2023 IEEE International Symposium on Mixed and Augmented Reality (ISMAR)*'
+publication: '*2023 IEEE International Symposium on Mixed and Augmented Reality (ISMAR)*'
 abstract: Recently, there has been much interest in using virtual reality (VR) tracking
   data to authenticate or identify users. Most prior research has relied on task-specific
   characteristics but newer studies have begun investigating task-agnostic, domain-specific
