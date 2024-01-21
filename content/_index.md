@@ -32,7 +32,7 @@ sections:
           date_start: '2021-01-01'
           date_end: ''
           description: 'Advised by **Ryan P. McMahan**'
-        - title: PhD Research Intern
+        - title: Ph.D. Research Intern
           company: Microsoft Research
           company_url: ''
           company_logo: msft
@@ -56,7 +56,7 @@ sections:
         featured_only: true
     design:
       columns: '2'
-      view: compact
+      view: citation
   - block: collection
     id: publications
     content:
