@@ -9,7 +9,7 @@ date: '2024-01-01'
 publishDate: '2024-01-21T22:31:42.458281Z'
 publication_types:
 - article-journal
-publication: '*To Appear in IEEE Transactions on Visualizations and Computer Graphics
+publication: '*To Appear in IEEE Transactions on Visualization and Computer Graphics
   (TVCG)*'
 abstract: In many consumer virtual reality (VR) applications, users embody predefined
   characters that offer minimal customization options, frequently emphasizing storytelling
