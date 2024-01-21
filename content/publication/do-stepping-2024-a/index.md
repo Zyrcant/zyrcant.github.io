@@ -2,9 +2,9 @@
 title: 'Stepping into the Right Shoes: The Effects of User-Matched Avatar Ethnicity
   and Gender on Sense of Embodiment in Virtual Reality'
 authors:
-- Tiffany D Do
+- admin
 - Camille Isabella Protko
-- Ryan P McMahan
+- Ryan P. McMahan
 date: '2024-01-01'
 publishDate: '2024-01-21T22:31:42.458281Z'
 publication_types:

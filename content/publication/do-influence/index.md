@@ -2,7 +2,7 @@
 title: 'The Influence of Mixed-Gender Avatar Facial Features on Racial Perception:
   Insights from the VALID Avatar Library'
 authors:
-- Tiffany D Do
+- admin
 - Camille Isabella Protko
 - Ryan P McMahan
 date: -01-01
