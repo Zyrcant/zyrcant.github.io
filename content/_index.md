@@ -154,13 +154,14 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Virtual Reality Engineering (CAP 5115)
+          date_end: '2024-05-01'
+          date_start: '2024-01-01'
+          organization: Graduate Teaching Assistant
         - title: Foundations of HCI (CAP 3104)
           date_end: '2023-08-05'
           date_start: '2023-12-01'
           organization: Graduate Teaching Assistant
-        - title: Camp Connect Advanced Research Graduate Mentor
-          date_start: '2021-08-01'
-          organization: Graduate Advisor
         - title: Operating Systems Concepts (CGS 3763)
           date_end: '2021-05-05'
           date_start: '2021-01-01'
