@@ -24,6 +24,14 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Ph.D. Research Intern
+          company: Labs@Google
+          company_url: ''
+          company_logo: google
+          location: Mountain View, CA
+          date_start: '2024-05-01'
+          date_end: '2024-08-01'
+          description: '*Incoming to exciting new research!*'
         - title: Graduate Research Assistant
           company: University of Central Florida
           company_url: ''
