@@ -25,5 +25,6 @@ abstract: In many consumer virtual reality (VR) applications, users embody prede
   influenced by matching both ethnicity and gender. Interestingly, we found that matching
   ethnicity specifically affects self-location while matching gender specifically
   affects one's body ownership.
+doi: 10.1109/TVCG.2024.3372067
 featured: true
 ---
