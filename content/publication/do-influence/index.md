@@ -9,7 +9,7 @@ date: -01-01
 publishDate: '2024-01-21T22:31:42.447315Z'
 publication_types:
 - paper-conference
-publication: '*To Appear in 2024 IEEE Conference on Virtual Reality and 3D User Interfaces
+publication: '*In 2024 IEEE Conference on Virtual Reality and 3D User Interfaces
   Abstracts and Workshops (VRW)*'
 abstract: Using the VALID Avatar Library, we created 14 mixed-gender avatars by combining
   facial features from male and female avatars within seven racial categories. In
