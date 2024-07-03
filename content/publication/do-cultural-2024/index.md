@@ -2,7 +2,7 @@
 title: 'Cultural Reflections in Virtual Reality: The Effects of User Ethnicity in
   Avatar Matching Experiences on Sense of Embodiment'
 authors:
-- Tiffany D Do
+- admin
 - Juanita Benjamin
 - Camille Isabella Protko
 - Ryan P McMahan
