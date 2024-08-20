@@ -15,12 +15,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate of Computer Science
+role: Assistant Professor of Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Central Florida
-    url: https://www.cs.ucf.edu/
+  - name: Drexel University
+    url: https://drexel.edu/cci/
 
 # Interests to show in About widget
 interests:
@@ -34,7 +34,7 @@ education:
   courses:
     - course: Ph.D. in Computer Science
       institution: University of Central Florida
-      year: ABD
+      year: 2024
     - course: M.S. in Computer Science
       institution: University of Texas at Dallas
       year: 2019
@@ -49,7 +49,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:tiffany.do@ucf.edu'
+    link: 'mailto:tiffany.do@drexel.edu'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/zyrcant
@@ -66,11 +66,10 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-☕️
-I am a Ph.D. candidate in Computer Science at the University of Central Florida, focusing on Human-Centered AI, extended reality (VR/AR), and virtual avatars. My research focuses on how individuals of diverse abilities and identities engage with AI and computing. I am dedicated to developing AI systems that value and prioritize the uniqueness of individuals, their cultures, and personalities. 
+☕️ I am an Assistant Professor in Computer Science, specializing in Human-Centered AI, augmented reality (AR), virtual reality (VR), and virtual avatars. My research focuses on the potential of AI to personalize experiences for individuals, placing a premium on their unique identities and perspectives. I aim to create AI systems and virtual avatars that enable people to explore diverse identities and experiences.
 
-As the proud daughter of a Vietnamese refugee family, I go by both my American name, Tiffany, and my native name, Diễm. I am very active in diversity in computing organizations, which you can find more about in service. 
+Previously, I conducted research at Microsoft Research and Google, where I focused on user experience (UX) and interactions with language applications, particularly large language models (LLMs) and virtual agents. My work examines how identity intersects with and impacts user perceptions and interactions.
 
-In my freetime, I enjoy drawing (check out my [gallery!](https://zyrcant.artstation.com/)), playing tennis, and drinking copious amounts of green tea.
+As the proud daughter of a Vietnamese refugee family, I go by both my American name, Tiffany, and my native name, Diễm. I am very active in diversity in computing organizations, which you can find more about in service. In my freetime, I enjoy drawing (check out my [gallery!](https://zyrcant.artstation.com/)), playing tennis, and drinking copious amounts of green tea.
 
 {style="text-align: justify;"}
