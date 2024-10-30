@@ -72,6 +72,6 @@ Previously, I conducted research at Microsoft Research and Google, where I focus
 
 As the proud daughter of a Vietnamese refugee family, I go by both my American name, Tiffany, and my native name, Diễm. I am very active in diversity in computing organizations, which you can find more about in service. In my freetime, I enjoy drawing (check out my [gallery!](https://zyrcant.artstation.com/)), playing tennis, and drinking copious amounts of green tea.
 
-**I am not seeking to hire PhD students at this time.**
+**I am not currently accepting new PhD students, except for students I’ve previously worked with. Due to the high volume of emails, I won’t be able to respond to other inquiries. Thanks for understanding!**
 
 {style="text-align: justify;"}
