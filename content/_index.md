@@ -45,7 +45,7 @@ sections:
           company_url: ''
           company_logo: ucf
           location: Orlando, FL
-          date_start: '2021-01-01'
+          date_start: '2020-01-01'
           date_end: '2024-09-01'
           description: 'Advised by **Ryan P. McMahan**<br>Virtual Reality and Virtual Agents'
         - title: Research Intern
