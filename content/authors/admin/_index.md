@@ -66,7 +66,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-☕️ I am an Assistant Professor in Computer Science, specializing in Human-Centered AI, augmented reality (AR), virtual reality (VR), and virtual avatars. My research focuses on the potential of AI to personalize experiences for individuals, placing a premium on their unique identities and perspectives. I aim to create AI systems and virtual avatars that enable people to explore diverse identities and experiences.
+☕️ I am an Assistant Professor in Computer Science, specializing in Human-Centered AI, augmented reality (AR), virtual reality (VR), and virtual avatars. My research focuses on the potential of AI to personalize experiences for individuals, placing a premium on their unique identities and perspectives. I aim to create AI systems and virtual avatars that enable people to explore different identities and experiences. At Drexel University, I direct the [DIVA Lab](https://du-divalab.github.io/).
 
 Previously, I conducted research at Microsoft Research and Google, where I focused on user experience (UX) and interactions with language applications, particularly large language models (LLMs) and virtual agents. My work examines how identity intersects with and impacts user perceptions and interactions.
 
