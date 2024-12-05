@@ -39,7 +39,7 @@ sections:
           location: Mountain View, CA
           date_start: '2024-05-01'
           date_end: '2024-09-01'
-          description: 'Ph.D. Research Intern<br>Applied Language Applications (LLMs)<br>Human-centered user evaluations and studies '
+          description: 'Ph.D. Research Intern<br>Applied Language Applications (LLMs)<br>Human-centered user evaluations and studies<br>Advised by **Nikhil Sarda**'
         - title: Graduate Research Assistant
           company: University of Central Florida
           company_url: ''
