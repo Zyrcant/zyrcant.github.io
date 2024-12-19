@@ -10,7 +10,7 @@ date: '2024-07-03'
 publishDate: '2024-07-03T06:56:28.585660Z'
 publication_types:
 - article-journal
-publication: '*To Appear in IEEE Transactions on Visualizations and Computer Graphics
+publication: '*In IEEE Transactions on Visualizations and Computer Graphics
   (TVCG)*'
 abstract: Matching avatar characteristics to a user can impact sense of embodiment
   (SoE) in VR. However, few studies have examined how participant demographics may
@@ -27,5 +27,7 @@ abstract: Matching avatar characteristics to a user can impact sense of embodime
   indicating the importance of considering these factors in VR experiences. These
   findings contribute valuable insights into understanding the complex dynamics shaping
   VR experiences across different demographic groups.
+doi: 10.1109/TVCG.2024.3456196
+url_pdf: https://arxiv.org/pdf/2407.10412
 featured: true
 ---

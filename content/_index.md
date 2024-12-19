@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ''
-date: 2022-10-24
+date: 2024-08-20
 type: landing
 
 sections:
@@ -24,6 +24,14 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Assistant Professor of Computer Science
+          company: Drexel University
+          company_url: ''
+          company_logo: drexel
+          location: Philadelphia, PA
+          date_start: '2024-09-01'
+          date_end: ''
+          description: 'College of Computing and Informations (CCI)'
         - title: Research Intern
           company: Labs@Google
           company_url: ''
@@ -31,23 +39,23 @@ sections:
           location: Mountain View, CA
           date_start: '2024-05-01'
           date_end: '2024-09-01'
-          description: '*Incoming to exciting new research!*'
+          description: 'Ph.D. Research Intern<br>Applied Language Applications (LLMs)<br>Human-centered user evaluations and studies<br>Advised by **Nikhil Sarda**'
         - title: Graduate Research Assistant
           company: University of Central Florida
           company_url: ''
           company_logo: ucf
           location: Orlando, FL
-          date_start: '2021-01-01'
-          date_end: ''
-          description: 'Advised by **Ryan P. McMahan**'
-        - title: Ph.D. Research Intern
+          date_start: '2020-01-01'
+          date_end: '2024-09-01'
+          description: 'Advised by **Ryan P. McMahan**<br>Virtual Reality and Virtual Agents'
+        - title: Research Intern
           company: Microsoft Research
           company_url: ''
           company_logo: msft
           location: Redmond, WA
           date_start: '2023-05-01'
           date_end: '2023-08-01'
-          description: 'Advised by **Ed Cutrell, Martez Mott,** and **John Tang** <br> **Human-Centered AI Experiences** (HCAIX) group'
+          description: 'Ph.D. Research Intern<br>Advised by **Ed Cutrell, Martez Mott,** and **John Tang** <br> **Human-Centered AI Experiences** (HCAIX) group<br>Applied Language Applications (LLMs) and Mesh Avatars'
     design:
       columns: '2'
       background:
