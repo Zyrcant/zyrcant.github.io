@@ -39,7 +39,7 @@ sections:
           location: Mountain View, CA
           date_start: '2024-05-01'
           date_end: '2024-09-01'
-          description: 'Advised by **Nikhil Sarda**<br>Langauge Applications (LangApps) Team<br>Conducted research and user studies on novel large language model (LLM) applications, driving AI innovation and shaping future advancements.<br>Designed and prototyped LLM (Gemini) applications in Python, focusing on usability and real-world implementation.<br>Contributed to confidential research initiatives (details redacted).'
+          description: 'Advised by **Nikhil Sarda**<br>Langauge Applications (LangApps) Team<br>Conducted research and user studies on novel large language model (LLM) applications.<br>Designed and prototyped LLM (Gemini) applications in Python, focusing on usability and real-world implementation.<br>Contributed to confidential research initiatives (details redacted).'
         - title: Graduate Research Assistant
           company: University of Central Florida
           company_url: ''
