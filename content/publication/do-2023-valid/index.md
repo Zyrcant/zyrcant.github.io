@@ -18,5 +18,5 @@ links:
 url_pdf: 'https://arxiv.org/pdf/2309.10902.pdf'
 url_dataset: 'https://github.com/xrtlab/Validated-Avatar-Library-for-Inclusion-and-Diversity---VALID'
 url_video: 'https://youtu.be/FVxy5Bbni-s'
-featured: true
+featured: false
 ---

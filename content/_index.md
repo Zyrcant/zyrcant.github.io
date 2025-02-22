@@ -39,7 +39,7 @@ sections:
           location: Mountain View, CA
           date_start: '2024-05-01'
           date_end: '2024-09-01'
-          description: 'Ph.D. Research Intern<br>Applied Language Applications (LLMs)<br>Human-centered user evaluations and studies<br>Advised by **Nikhil Sarda**'
+          description: 'Advised by **Nikhil Sarda**<br>Langauge Applications (LangApps) Team<br>Conducted research and user studies on novel large language model (LLM) applications, driving AI innovation and shaping future advancements.<br>Designed and prototyped LLM (Gemini) applications in Python, focusing on usability and real-world implementation.<br>Contributed to confidential research initiatives (details redacted).'
         - title: Graduate Research Assistant
           company: University of Central Florida
           company_url: ''
@@ -55,7 +55,7 @@ sections:
           location: Redmond, WA
           date_start: '2023-05-01'
           date_end: '2023-08-01'
-          description: 'Ph.D. Research Intern<br>Advised by **Ed Cutrell, Martez Mott,** and **John Tang** <br> **Human-Centered AI Experiences** (HCAIX) group<br>Applied Language Applications (LLMs) and Mesh Avatars'
+          description: 'Advised by **Ed Cutrell, Martez Mott,** and **John Tang** <br>Ability Team, HCAIX (Human-Computing AI Experiences) Group<br>Researched AI-driven affect and emotion in inclusive avatars using LLMs (GPT-4), Microsoft Mesh, and Unity (C\#).<br>'
     design:
       columns: '2'
       background:
@@ -170,6 +170,10 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Augmented Reality Programming (CS T480)
+          date_end: '2025-04-01'
+          date_start: '2025-01-01'
+          organization: Instructor
         - title: Virtual Reality Engineering (CAP 5115)
           date_end: '2024-05-01'
           date_start: '2024-01-01'
