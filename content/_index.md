@@ -39,7 +39,7 @@ sections:
           location: Mountain View, CA
           date_start: '2024-05-01'
           date_end: '2024-09-01'
-          description: 'Advised by **Nikhil Sarda**<br>Langauge Applications (LangApps) Team<br>Conducted research and user studies on novel large language model (LLM) applications.<br>Designed and prototyped LLM (Gemini) applications in Python, focusing on usability and real-world implementation.<br>Contributed to confidential research initiatives (details redacted).'
+          description: 'Advised by **Nikhil Sarda**<br>Langauge Applications (LangApps) Team<br>Conducted research on innovative applications of large language models (LLMs). Designed and prototyped LLM-based tools in Python, emphasizing usability and real-world deployment of AI-generated podacasts.<br>Work recognized with a [Best Paper at CHI 2025](https://doi.org/10.1145/3706598.3713460).<br>Contributed to confidential research initiatives (details redacted).'
         - title: Graduate Research Assistant
           company: University of Central Florida
           company_url: ''
@@ -93,7 +93,7 @@ sections:
     content:
       title: Service
       text: |
-        I am especially passionate about diversity in computing. Previously, I have served as a mentor for the **ACM-Women (2020-2022)** chapter at UCF. I cofounded and currently serve as the **External Vice-President of [Girls Who Code @ UCF](https://www.instagram.com/girlswhocodeucf/)**. Due to my love for coding, I also lead the technical interview prep group at GWC@UCF to help prepare our brilliant club members for industry jobs. See below for some of my workshop materials:
+        I am especially passionate about service in computing. I currently serve as the **faculty advisor** for Drexel's **Women in Computing Society**. Previously, I have served as a mentor for the **ACM-Women (2020-2022)** chapter at UCF. I cofounded and served as the **External Vice-President of [Girls Who Code @ UCF](https://www.instagram.com/girlswhocodeucf/)** from 2022-2024. Due to my love for coding, I also led the technical interview prep group at GWC@UCF to help prepare our brilliant club members for industry jobs. See below for some of my workshop materials:
         <br><br>[Introduction to Git and GitHub](uploads/GitWorkshop.pdf)
         <br>[Introduction to Technical Interviews - Practice Problems](https://colab.research.google.com/drive/1XBoCPR-FSeRVGuCvlFEm2kATrp76KzEF?usp=sharingf)<br><br> 
         

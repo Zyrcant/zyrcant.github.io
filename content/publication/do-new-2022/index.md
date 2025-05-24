@@ -9,7 +9,7 @@ date: '2022-04-01'
 publishDate: '2023-10-28T19:30:59.869907Z'
 publication_types:
 - paper-conference
-publication: '*CHI Conference on Human Factors in Computing Systems*'
+publication: '*Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems*'
 doi: 10.1145/3491102.3517564
 abstract: Virtual humans can be used to deliver persuasive arguments; yet, those with
   synthetic text-to-speech (TTS) have been perceived less favorably than those with
