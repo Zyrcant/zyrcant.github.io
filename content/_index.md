@@ -93,12 +93,14 @@ sections:
     content:
       title: Service
       text: |
-        I am especially passionate about service in computing. I currently serve as the **faculty advisor** for Drexel's **Women in Computing Society**. Previously, I have served as a mentor for the **ACM-Women (2020-2022)** chapter at UCF. I cofounded and served as the **External Vice-President of [Girls Who Code @ UCF](https://www.instagram.com/girlswhocodeucf/)** from 2022-2024. Due to my love for coding, I also led the technical interview prep group at GWC@UCF to help prepare our brilliant club members for industry jobs. See below for some of my workshop materials:
-        <br><br>[Introduction to Git and GitHub](uploads/GitWorkshop.pdf)
-        <br>[Introduction to Technical Interviews - Practice Problems](https://colab.research.google.com/drive/1XBoCPR-FSeRVGuCvlFEm2kATrp76KzEF?usp=sharingf)<br><br> 
-        
-        Additionally, I have served as an external reviewer for the following journals and conferences: Springer Virtual Reality (2021), ACM MM (2021, 2022), IEEE VR (2022, 2024), ACM CHI (2022, 2023, 2024), IEEE ISMAR (2022).
-      
+        I am especially passionate about service in computing. I currently serve as the <strong>faculty advisor</strong> for Drexel’s <strong>Women in Computing Society</strong>, and previously mentored the <strong>ACM-Women</strong> chapter at UCF (2020–2022). I also cofounded and served as <strong>External Vice President</strong> of <a href="https://www.instagram.com/girlswhocodeucf/" target="_blank">Girls Who Code @ UCF</a> from 2022–2024. As part of my commitment to supporting students, I led GWC’s technical interview prep group, helping members gain confidence and skills for industry roles.
+
+        Some of the workshops I created include: <br>
+        - <a href="uploads/GitWorkshop.pdf">Introduction to Git and GitHub</a> <br>
+        - <a href="https://colab.research.google.com/drive/1XBoCPR-FSeRVGuCvlFEm2kATrp76KzEF?usp=sharing" target="_blank">Technical Interview Practice Problems</a> <br><br>
+
+        In addition to mentoring and student outreach, I actively contribute to the research community through reviewing and editorial service. I have served as an external reviewer for <em>Springer Virtual Reality</em>, <em>ACM Multimedia (ACM MM)</em>, <em>IEEE VR</em>, <em>ACM CHI</em>, <em>IEEE ISMAR</em>, among others—earning multiple <strong>Outstanding Reviewer</strong> distinctions at top HCI venues. I have also served on the <strong>Technical Program Committee</strong> for <em>ACM Multimedia (MM 2022)</em> and <em>ACM Virtual Reality Software and Technology (VRST 2025)</em>, and currently serve as the <strong>Outreach Editor</strong> for <a href="https://dl.acm.org/journal/tochi" target="_blank">ACM Transactions on Computer-Human Interaction (TOCHI)</a>.
+ 
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
