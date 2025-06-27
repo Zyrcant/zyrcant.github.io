@@ -161,7 +161,7 @@ sections:
     content:
       title: Teaching
       subtitle: '📚 A list of courses I have taught for'
-      text: ''
+      text: 'Although I teach just one class per term, I place a strong emphasis on quality instruction and consistently receive high student evaluations, with an average instructor rating of **4.75/5**.'
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
       # Accomplishments.
@@ -170,8 +170,12 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Game Design and Development (CS 345)
+          date_end: '2025-06-01'
+          date_start: '2025-03-01'
+          organization: Instructor
         - title: Augmented Reality Programming (CS T480)
-          date_end: '2025-04-01'
+          date_end: '2025-03-01'
           date_start: '2025-01-01'
           organization: Instructor
         - title: Virtual Reality Engineering (CAP 5115)
