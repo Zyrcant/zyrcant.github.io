@@ -70,7 +70,7 @@ highlight_name: true
 
 Previously, I conducted research at Microsoft Research and Google, where I focused on user experience (UX) and interactions with AI language applications, particularly large language models (LLMs) and virtual agents. My work examines how identity intersects with and impacts user perceptions and interactions.
 
-As the proud daughter of a Vietnamese refugee family, I go by both my American name, Tiffany, and my native name, Diễm. I am active in diversity in computing organizations, which you can find more about in service. In my freetime, I enjoy drawing (check out my [gallery!](https://zyrcant.artstation.com/)), playing the guitar (I'm in a [band!](uploads/TS004009.JPG)), and drinking copious amounts of green tea.
+As the proud daughter of a Vietnamese refugee family, I go by both my American name, Tiffany, and my native name, Diễm. I am active in diversity in computing organizations, which you can find more about in service. In my freetime, I enjoy playing the guitar (I'm the [lead guitarist](uploads/TS004009.JPG) of a jrock band [[1]](https://www.instagram.com/reel/DYP_RRfPD1n) [[2]](uploads/riff.mp4)), drawing (check out my [gallery!](https://zyrcant.artstation.com/)), gaming, and drinking copious amounts of tea.
 
 **Prospective Students: I am not currently hiring PhD students this cycle. Please do not reach out to me for graduate assistantships. Thank you! I do advise undergraduate volunteers looking for research experience, and encourage you to send me an email if you are interested.**
 

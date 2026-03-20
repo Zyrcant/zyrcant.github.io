@@ -100,6 +100,8 @@ sections:
         - <a href="https://colab.research.google.com/drive/1XBoCPR-FSeRVGuCvlFEm2kATrp76KzEF?usp=sharing" target="_blank">Technical Interview Practice Problems</a> <br><br>
 
         In addition to mentoring and student outreach, I actively contribute to the research community through reviewing and editorial service. I have served as an external reviewer for <em>Springer Virtual Reality</em>, <em>ACM Multimedia (ACM MM)</em>, <em>IEEE VR</em>, <em>ACM CHI</em>, <em>IEEE ISMAR</em>, among others—earning multiple <strong>Outstanding Reviewer</strong> distinctions at top HCI venues. I have also served on the <strong>Technical Program Committee</strong> for <em>ACM Multimedia (MM 2022)</em> and <em>ACM Virtual Reality Software and Technology (VRST 2025)</em>, and currently serve as the <strong>Outreach Editor</strong> for <a href="https://dl.acm.org/journal/tochi" target="_blank">ACM Transactions on Computer-Human Interaction (TOCHI)</a>.
+
+        I am also the faculty advisor for [Drexel Gaming Association (DGA)](https://cms.cci.drexel.edu/dga/). I love League of Legends, Zenless Zone Zero, and many other games. 
  
     design:
       # See Page Builder docs for all section customization options.
