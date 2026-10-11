@@ -29,5 +29,4 @@ abstract: Matching avatar characteristics to a user can impact sense of embodime
   VR experiences across different demographic groups.
 doi: 10.1109/TVCG.2024.3456196
 url_pdf: https://arxiv.org/pdf/2407.10412
-featured: true
 ---

@@ -3,11 +3,11 @@ title: 'Non-Human Body Parts in Social VR: A Survey of Furry and Kemonomimi Comm
 authors:
 - Omar A. Khan
 - Lee Lisle
-- Tiffany D. Do
+- admin
 date: '2026-01-01'
 publishDate: '2026-10-11T17:55:57.671643Z'
 publication_types:
-- paper-conference
+- extended-abstract
 publication: '*Proceedings of the 2026 ACM Symposium on Spatial User Interaction*'
 doi: 10.1145/3822518.3839315
 abstract: Many social VR users recreationally embody non-human body parts on platforms

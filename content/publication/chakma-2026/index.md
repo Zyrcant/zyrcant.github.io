@@ -7,13 +7,13 @@ authors:
 - Zeyuan Wang
 - Honglu Liu
 - Tingting Li
-- Tiffany D. Do
+- admin
 - Feng Liu
 date: '2026-01-01'
 publishDate: '2026-10-11T17:55:57.658947Z'
 publication_types:
 - paper-conference
-publication: '*Artificial Intelligence in Education*'
+publication: '*Artificial Intelligence in Education (AIED)*'
 abstract: "Developing expertise in diagnostic reasoning requires practice with diverse
   student artifacts, yet privacy regulations prohibit sharing authentic student work
   for teacher professional development (PD) at scale. We present DrawSim-PD, the first
@@ -29,4 +29,6 @@ abstract: "Developing expertise in diagnostic reasoning requires practice with d
   (>84% positive on core items) and utility for interpreting student thinking, while
   identifying refinement opportunities for grade-band extremes. This infrastructure
   addresses data scarcity barriers in visual assessment research. Project"
+url_pdf: https://arxiv.org/pdf/2602.01578
+doi: 10.1007/978-3-032-29744-0_2
 ---
