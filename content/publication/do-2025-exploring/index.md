@@ -2,7 +2,7 @@
 title: Exploring AI-Driven Affective Avatars for Autistic Adults and Adults with Social
   Anxiety in Virtual Meetings
 authors:
-- Tiffany D. Do
+- admin
 - Martez E Mott
 - John Tang
 - Sasa Junuzovic

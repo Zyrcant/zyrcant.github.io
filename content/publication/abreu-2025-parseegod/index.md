@@ -3,7 +3,7 @@ title: 'PARSE-Ego4D: Toward Bidirectionally Aligned Action Recommendations for E
   Videos'
 authors:
 - Steven Abreu
-- Tiffany D Do
+- admin
 - Karan Ahuja
 - Eric J Gonzalez
 - Lee Payne

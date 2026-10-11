@@ -4,7 +4,7 @@ title: Path Modeling of Visual Attention, User Perceptions, and Behavior Change 
 authors:
 - Sagar A. Vankit
 - Vivian Genaro Motti
-- Tiffany D. Do
+- admin
 - Samaneh Zamanifard
 - Deyrel Diaz
 - Andrew T. Duchowski
